@@ -1,63 +1,64 @@
-26642,32.2997,96.5414,lachnoglossa,-1,EXCLUDE – high missing data
-27613,30.14694,101.8603,lachnoglossa,1,INSPECT
-28066,29.3858333,100.149444,lachnoglossa,2,
-28240,28.7464,100.2692,lachnoglossa,2,
-29635,30.1711111,97.3336111,lachnoglossa,3,
-30749,29.1,99.6922222,lachnoglossa,2,
-31864,31.4375,96.4194,lachnoglossa,3,
-33895,32.39889,98.19778,lachnoglossa,3,INSPECT
-33898,32.3830556,98.2388889,lachnoglossa,3,
-38094,30.53611,101.5856,lachnoglossa,1,
-39112,32.2563889,101.194167,lachnoglossa,5,
-40547,29.7411,98.6808,lachnoglossa,-1,EXCLUDE – high missing data
-40685,29.4944444,97.9438889,lachnoglossa,3,
-40757,29.5006,97.9353,lachnoglossa,3,INCLUDE – but high missing data
-41330,31.4058,97.4719,lachnoglossa,-1,EXCLUDE – high missing data
-41402,31.2861111,97.5252778,lachnoglossa,3,
-41460,31.1467,98.1736,lachnoglossa,-1,EXCLUDE – high missing data
-41505,30.96111,98.30694,lachnoglossa,3,
-41748,31.5747,98.0553,lachnoglossa,3,
-DE123,30.2785556,101.523556,lachnoglossa,1,
-DE138,30.5770278,101.417972,lachnoglossa,4,
-DE147,30.6431111,101.404139,lachnoglossa,4,
-DE161,30.7118333,101.364333,lachnoglossa,4,
-DE227,31.5431389,100.470639,lachnoglossa,5,
-DE27,28.6172222,99.8308333,lachnoglossa,2,
-DE271,31.7153056,99.6162778,lachnoglossa,3,
-DE303,32.0090278,99.0482778,lachnoglossa,3,
-DE312,31.8871111,99.0337778,lachnoglossa,3,
-DE322,31.9325,98.8332,lachnoglossa,3,INCLUDE – but high missing data
-DE331,31.46325,98.8201389,lachnoglossa,3,
-DE342,31.0443056,98.9088056,lachnoglossa,3,
-DE35,28.6501389,99.8336667,lachnoglossa,2,
-DE359,30.9808333,98.9590556,lachnoglossa,3,
-DE390,30.2970278,99.671,lachnoglossa,3,
-DE40,29.1411111,99.9283333,lachnoglossa,2,
-DE415,29.8208333,100.345889,lachnoglossa,3,
-DE419,29.1418056,100.156611,lachnoglossa,2,
-DE437,28.7463889,100.269167,lachnoglossa,2,
-DE443,29.1426111,99.9298056,lachnoglossa,2,
-DE47,29.1085,100.034361,lachnoglossa,2,
-DE481,28.1475833,101.163333,lachnoglossa,0,
-DE492,28.3222222,101.166389,lachnoglossa,0,
-DE494,28.3222222,101.166389,rhinanthoides,-1,EXCLUDE – groups with lachno but mislabeled
-DE520,30.1446111,101.859306,lachnoglossa,1,
-DE536,30.0402778,101.837778,lachnoglossa,1,
-DE545,30.2883333,101.531583,delavayi,-1,EXCLUDE – groups with lachno but mislabeled – high missing data
-DE551,30.2883333,101.531583,lachnoglossa,1,
-DE556,30.7406389,101.334361,lachnoglossa,4,
-DE564,31.2010278,100.857889,lachnoglossa,5,
-DE568,30.8968889,101.118333,lachnoglossa,5,
-DE580,31.725,100.744444,lachnoglossa,5,
-DE591,31.4236111,100.620833,lachnoglossa,5,
-DE612,32.1386944,101.04,lachnoglossa,-1,EXCLUDE – mislabeled – groups with rhinanth
-DE65,29.3348611,100.099417,lachnoglossa,2,
-DE650,31.6575,100.701306,lachnoglossa,5,
-DE67,29.3858,100.1494,lachnoglossa,-1,INCLUDE – but high missing data
-DE70,30.0109722,100.316167,lachnoglossa,3,
-DE82,30.15875,100.566083,lachnoglossa,3,
-JJ129,29.5879694,97.90035,lachnoglossa,3,
-JJ31,29.2633333,98.68,lachnoglossa,3,
-JJ49,29.6466667,98.1336111,lachnoglossa,3,
-JJ55,30.1711111,97.3336111,lachnoglossa,3,
-JJ63,30.6838889,97.2619444,lachnoglossa,-1,"EXCLUDE – seems mislabeled, it is in Tibet but appears similar to Yunnan samples. "
+ID,latitude,longitude,name,group,mincov75-missing,notes
+26642,32.2997,96.5414,lachnoglossa,-1,0.466,EXCLUDE – high missing data
+27613,30.14694,101.8603,lachnoglossa,1,0.183,INSPECT
+28066,29.3858333,100.149444,lachnoglossa,3,0.08,
+28240,28.7464,100.2692,lachnoglossa,3,0.09,
+29635,30.1711111,97.3336111,lachnoglossa,2,0.048,
+30749,29.1,99.6922222,lachnoglossa,3,0.259,
+31864,31.4375,96.4194,lachnoglossa,2,0.217,
+33895,32.39889,98.19778,lachnoglossa,2,0.117,INSPECT
+33898,32.3830556,98.2388889,lachnoglossa,2,0.03,
+38094,30.53611,101.5856,lachnoglossa,1,0.066,
+39112,32.2563889,101.194167,lachnoglossa,1,0.056,
+40547,29.7411,98.6808,lachnoglossa,-1,0.607,EXCLUDE – high missing data
+40685,29.4944444,97.9438889,lachnoglossa,2,0.053,
+40757,29.5006,97.9353,lachnoglossa,2,0.272,INCLUDE – but high missing data
+41330,31.4058,97.4719,lachnoglossa,-1,0.523,EXCLUDE – high missing data
+41402,31.2861111,97.5252778,lachnoglossa,2,0.051,
+41460,31.1467,98.1736,lachnoglossa,-1,0.46,EXCLUDE – high missing data
+41505,30.96111,98.30694,lachnoglossa,2,0.244,
+41748,31.5747,98.0553,lachnoglossa,2,0.072,
+DE123,30.2785556,101.523556,lachnoglossa,1,0.064,
+DE138,30.5770278,101.417972,lachnoglossa,1,0.058,
+DE147,30.6431111,101.404139,lachnoglossa,1,0.046,
+DE161,30.7118333,101.364333,lachnoglossa,1,0.058,
+DE227,31.5431389,100.470639,lachnoglossa,1,0.075,
+DE27,28.6172222,99.8308333,lachnoglossa,3,0.059,
+DE271,31.7153056,99.6162778,lachnoglossa,2,0.035,
+DE303,32.0090278,99.0482778,lachnoglossa,2,0.118,
+DE312,31.8871111,99.0337778,lachnoglossa,2,0.082,
+DE322,31.9325,98.8332,lachnoglossa,2,0.386,INCLUDE – but high missing data
+DE331,31.46325,98.8201389,lachnoglossa,2,0.026,
+DE342,31.0443056,98.9088056,lachnoglossa,2,0.033,
+DE35,28.6501389,99.8336667,lachnoglossa,3,0.092,
+DE359,30.9808333,98.9590556,lachnoglossa,2,0.086,
+DE390,30.2970278,99.671,lachnoglossa,2,0.106,
+DE40,29.1411111,99.9283333,lachnoglossa,3,0.037,
+DE415,29.8208333,100.345889,lachnoglossa,2,0.058,
+DE419,29.1418056,100.156611,lachnoglossa,3,0.047,
+DE437,28.7463889,100.269167,lachnoglossa,3,0.045,
+DE443,29.1426111,99.9298056,lachnoglossa,3,0.075,
+DE47,29.1085,100.034361,lachnoglossa,3,0.127,
+DE481,28.1475833,101.163333,lachnoglossa,0,0.046,
+DE492,28.3222222,101.166389,lachnoglossa,0,0.081,
+DE494,28.3222222,101.166389,rhinanthoides,-1,0.052,EXCLUDE – groups with lachno but mislabeled
+DE520,30.1446111,101.859306,lachnoglossa,1,0.088,
+DE536,30.0402778,101.837778,lachnoglossa,1,0.088,
+DE545,30.2883333,101.531583,delavayi,-1,0.831,EXCLUDE – groups with lachno but mislabeled – high missing data
+DE551,30.2883333,101.531583,lachnoglossa,1,0.032,
+DE556,30.7406389,101.334361,lachnoglossa,1,0.05,
+DE564,31.2010278,100.857889,lachnoglossa,1,0.091,
+DE568,30.8968889,101.118333,lachnoglossa,1,0.046,
+DE580,31.725,100.744444,lachnoglossa,1,0.069,
+DE591,31.4236111,100.620833,lachnoglossa,1,0.089,
+DE612,32.1386944,101.04,lachnoglossa,-1,0.27,EXCLUDE – mislabeled – groups with rhinanth
+DE65,29.3348611,100.099417,lachnoglossa,3,0.085,
+DE650,31.6575,100.701306,lachnoglossa,1,0.122,
+DE67,29.3858,100.1494,lachnoglossa,-1,0.328,INCLUDE – but high missing data
+DE70,30.0109722,100.316167,lachnoglossa,2,0.078,
+DE82,30.15875,100.566083,lachnoglossa,2,0.07,
+JJ129,29.5879694,97.90035,lachnoglossa,2,0.066,
+JJ31,29.2633333,98.68,lachnoglossa,2,0.217,
+JJ49,29.6466667,98.1336111,lachnoglossa,2,0.046,
+JJ55,30.1711111,97.3336111,lachnoglossa,2,0.095,
+JJ63,30.6838889,97.2619444,lachnoglossa,-1,0.087,"EXCLUDE – seems mislabeled, is in Tibet but appears similar to Xiangcheng samples. "

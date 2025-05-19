@@ -1,4 +1,4 @@
-ID,latitude,longitude,name,group,mincov75-missing,notes
+ID,latitude,longitude,label,group,mincov75-missing,notes
 26642,32.2997,96.5414,lachnoglossa,-1,0.466,EXCLUDE – high missing data
 27613,30.14694,101.8603,lachnoglossa,1,0.183,INSPECT
 28066,29.3858333,100.149444,lachnoglossa,3,0.08,

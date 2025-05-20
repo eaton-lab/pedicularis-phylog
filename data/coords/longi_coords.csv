@@ -1,96 +1,96 @@
-ID,latitude,longitude,label,group,old_group,mincov75-missing,notes
-28270,28.7463889,100.269167,longiflora,1,0,0.131,
-29506,29.6466667,98.1336111,longiflora,1,0,0.068,
-31601,31.6447222,98.4516667,longiflora,4,1,0.075,
-33585,33.05278,98.00361,longiflora,4,1,0.155,
-33903,32.3830556,98.2388889,longiflora,4,1,0.125,
-34239,31.72,100.719444,longiflora,2,2,0.082,
-35151,30.51028,101.62972,longiflora,2,2,0.108,"INCLUDE – mislabeled, but it is now updated in SNPs file and coords as “38151”"
-35422,27.4758333,99.8841667,longiflora,1,0,0.086,
-35707,30.025,101.3875,longiflora,0,4,0.369,
-36046,30.16833,100.5853,longiflora,1,0,0.086,
-36071,30.30361,99.5575,longiflora-var-tubiformis,1,0,0.071,
-36185,29.5169,100.2719,longiflora,-1,-1,0.55,REMOVE – low data (95%)
-36205,29.68167,100.3761,longiflora,0,4,0.37,INSPECT – low data
-36323,31.6275,100.236944,longiflora,4,1,0.073,
-36566,31.91333,98.815,longiflora,4,1,0.084,
-36688,31.8552778,99.1130556,longiflora,4,1,0.077,
-36789,31.8063889,99.4319444,longiflora,4,1,0.035,
-37328,30.3117,100.2956,longiflora,-1,-1,0.55,REMOVE – low data (84%)
-37344,30.2180556,100.258333,longiflora,1,0,0.14,
-38151,30.51028,101.62972,longiflora,-1,-1,0.55,REMOVE – is mislabeled tube probably
-38679,31.70611,102.31389,longiflora,-1,3,0.542,
-39033,32.48833,100.7647,longiflora,3,3,0.371,
-39102,32.3433,100.7689,longiflora,-1,-1,0.55,REMOVE – low data (91%)
-39104,32.2563889,101.194167,longiflora-var-tubiformis,-1,3,0.08,REMOVE – duplicate of 39104
-39104,32.2563889,101.194167,longiflora,3,3,0.049,
-39348,33.3025,101.527222,longiflora,3,3,0.034,
-39373,32.0825,101.079722,longiflora,3,3,0.057,
-39483,33.2033333,101.290833,longiflora-var-tubiformis,3,3,0.055,
-39483,33.20333,101.29083,longiflora,-1,3,0.077,REMOVE – duplicate of 39483
-39532,32.89639,101.91611,longiflora-var-tubiformis,3,3,0.344,
-39557,32.0475,102.016944,longiflora-var-tubiformis,3,3,0.043,
-40159,33.5233333,102.761389,longiflora,3,3,0.056,
-40214,33.7866667,103.096111,longiflora,3,3,0.051,
-40790,30.7825,95.59583,longiflora,-1,1,0.492,REMOVE – high missing data
-40833,30.83167,95.3525,longiflora,-1,-1,0.55,REMOVE – mislabeled – is rhinanthoides
-40879,30.815,95.15306,longiflora,5,1,0.163,could be split into additional pop 5 or 1
-41058,31.2472222,97.3111111,longiflora-var-tubiformis,5,5,0.068,could be split into additional pop 5
-41120,31.19611,97.32028,longiflora,5,5,0.2,could be split into additional pop 5
-41591,30.39611,98.47278,longiflora,-1,5,0.673,could be split into additional pop 5
-41689,31.2327778,98.0552778,longiflora-var-tubiformis,5,5,0.065,could be split into additional pop 5
-41696,31.13,98.19583,longiflora,5,5,0.043,could be split into additional pop 5
-41734,31.57472,98.05528,longiflora,5,1,0.259,
-42354,30.2263889,100.245,longiflora,1,0,0.232,
-44380,31.69139,102.3211,longiflora,3,3,0.072,
-DE132,30.4191667,101.548056,longiflora,0,4,0.137,
-DE141,30.5770278,101.417972,longiflora,0,4,0.122,
-DE154,30.6431111,101.404139,longiflora,2,2,0.118,
-DE156,30.7118333,101.364333,longiflora,2,2,0.156,
-DE165,30.7118333,101.364333,longiflora,2,2,0.063,
-DE175,30.8267778,101.282278,longiflora,2,2,0.156,
-DE193,31.5747222,100.720944,longiflora,2,2,0.07,
-DE228,31.5431389,100.470639,longiflora,4,1,0.068,
-DE246,31.6518889,100.258417,longiflora,4,1,0.045,
-DE257,31.6261111,100.223306,longiflora,4,1,0.039,
-DE265,31.5866111,100.141667,longiflora,4,1,0.053,
-DE278,31.7153056,99.6162778,longiflora,4,1,0.114,
-DE282,31.9110278,99.2578611,longiflora,4,1,0.154,
-DE298,32.0668611,99.0042222,longiflora,4,1,0.071,
-DE308,32.0090278,99.0482778,longiflora,4,1,0.065,
-DE313,31.8871111,99.0337778,longiflora,4,1,0.08,
-DE356,30.9808333,98.9590556,longiflora,5,5,0.098,could be split into additional pop 5
-DE369,30.5976944,99.1883889,longiflora,1,0,0.253,
-DE383,30.2873611,99.4949722,longiflora,1,0,0.121,
-DE395,30.2970278,99.67044,longiflora,1,0,0.194,
-DE4,27.9591944,99.7071667,longiflora,1,0,0.077,
-DE402,30.2272778,100.247694,longiflora,1,0,0.06,
-DE424,29.1418056,100.156611,longiflora,1,0,0.066,
-DE436,28.7463889,100.269167,longiflora,1,0,0.086,
-DE464,27.80764,99.76297,longiflora,1,0,0.407,
-DE498,28.2902778,101.154944,longiflora,0,4,0.125,
-DE531,30.0128889,101.862722,longiflora,-1,2,0.55,
-DE54,29.1447222,100.034778,longiflora,0,4,0.113,
-DE61,29.3348611,100.099417,longiflora,0,4,0.121,
-DE634,32.3252778,101.080639,longiflora,3,3,0.048,
-DE644,32.3375,101.42083,longiflora,3,3,0.3,
-DE651,31.6575,100.701306,longiflora,2,2,0.069,
-DE669,32.3224167,102.455417,longiflora,3,3,0.252,
-DE685,32.7111111,102.117361,longiflora,3,3,0.053,
-DE693,32.9080556,101.890556,longiflora,3,3,0.161,
-DE696,33.31375,101.283611,longiflora,3,3,0.069,
-DE717,33.9394444,102.030194,longiflora,3,3,0.049,
-DE742,34.1130556,102.778889,longiflora,3,3,0.133,
-JJ108,29.3769444,96.8941667,longiflora,5,5,0.095,could be split into additional pop 5
-JJ112,29.3016528,96.8357028,longiflora,5,5,0.181,could be split into additional pop 5
-JJ116,29.9220278,97.6364722,longiflora,5,5,0.12,could be split into additional pop 5
-JJ27,28.50148611,98.91423333,longiflora,-1,-1,0.55,REMOVE – low data (86%)
-JJ36,29.3949889,98.6553611,longiflora,5,5,0.129,could be split into additional pop 5
-JJ42,29.6908917,98.5388972,longiflora,5,5,0.082,could be split into additional pop 5
-JJ45,29.6466667,98.1336111,longiflora,1,0,0.11,
-JJ60,30.2968028,97.2673917,longiflora,5,5,0.051,could be split into additional pop 5
-JJ70,30.6064222,97.0669111,longiflora,5,5,0.11,could be split into additional pop 5
-JJ84,29.7763972,94.7426611,longiflora,5,5,0.08,could be split into additional pop 5
-JJ92,29.6111111,94.6516667,longiflora,5,5,0.045,could be split into additional pop 5
-JJ94,29.75888889,94.74194444,longiflora,5,5,0.354,could be split into additional pop 5
-JJ95,30.21353889,95.380775,longiflora,5,1,0.312,
+ID,latitude,longitude,label,group,mincov75-missing,notes,old_group
+28270,28.7463889,100.269167,longiflora,1,0.131,,0
+29506,29.6466667,98.1336111,longiflora,1,0.068,,0
+31601,31.6447222,98.4516667,longiflora,4,0.075,,1
+33585,33.05278,98.00361,longiflora,4,0.155,,1
+33903,32.3830556,98.2388889,longiflora,4,0.125,,1
+34239,31.72,100.719444,longiflora,2,0.082,,2
+35151,30.51028,101.62972,longiflora,2,0.108,"INCLUDE – mislabeled, but it is now updated in SNPs file and coords as “38151”",2
+35422,27.4758333,99.8841667,longiflora,1,0.086,,0
+35707,30.025,101.3875,longiflora,0,0.369,,4
+36046,30.16833,100.5853,longiflora,1,0.086,,0
+36071,30.30361,99.5575,longiflora-var-tubiformis,1,0.071,,0
+36185,29.5169,100.2719,longiflora,-1,0.55,REMOVE – low data (95%),-1
+36205,29.68167,100.3761,longiflora,0,0.37,INSPECT – low data,4
+36323,31.6275,100.236944,longiflora,4,0.073,,1
+36566,31.91333,98.815,longiflora,4,0.084,,1
+36688,31.8552778,99.1130556,longiflora,4,0.077,,1
+36789,31.8063889,99.4319444,longiflora,4,0.035,,1
+37328,30.3117,100.2956,longiflora,-1,0.55,REMOVE – low data (84%),-1
+37344,30.2180556,100.258333,longiflora,1,0.14,,0
+38151,30.51028,101.62972,longiflora,-1,0.55,REMOVE – is mislabeled tube probably,-1
+38679,31.70611,102.31389,longiflora,-1,0.542,,3
+39033,32.48833,100.7647,longiflora,3,0.371,,3
+39102,32.3433,100.7689,longiflora,-1,0.55,REMOVE – low data (91%),-1
+39104,32.2563889,101.194167,longiflora-var-tubiformis,-1,0.08,REMOVE – duplicate of 39104,3
+39104,32.2563889,101.194167,longiflora,3,0.049,,3
+39348,33.3025,101.527222,longiflora,3,0.034,,3
+39373,32.0825,101.079722,longiflora,3,0.057,,3
+39483,33.2033333,101.290833,longiflora-var-tubiformis,3,0.055,,3
+39483,33.20333,101.29083,longiflora,-1,0.077,REMOVE – duplicate of 39483,3
+39532,32.89639,101.91611,longiflora-var-tubiformis,3,0.344,,3
+39557,32.0475,102.016944,longiflora-var-tubiformis,3,0.043,,3
+40159,33.5233333,102.761389,longiflora,3,0.056,,3
+40214,33.7866667,103.096111,longiflora,3,0.051,,3
+40790,30.7825,95.59583,longiflora,-1,0.492,REMOVE – high missing data,1
+40833,30.83167,95.3525,longiflora,-1,0.55,REMOVE – mislabeled – is rhinanthoides,-1
+40879,30.815,95.15306,longiflora,5,0.163,could be split into additional pop 5 or 1,1
+41058,31.2472222,97.3111111,longiflora-var-tubiformis,5,0.068,could be split into additional pop 5,5
+41120,31.19611,97.32028,longiflora,5,0.2,could be split into additional pop 5,5
+41591,30.39611,98.47278,longiflora,-1,0.673,could be split into additional pop 5,5
+41689,31.2327778,98.0552778,longiflora-var-tubiformis,5,0.065,could be split into additional pop 5,5
+41696,31.13,98.19583,longiflora,5,0.043,could be split into additional pop 5,5
+41734,31.57472,98.05528,longiflora,5,0.259,,1
+42354,30.2263889,100.245,longiflora,1,0.232,,0
+44380,31.69139,102.3211,longiflora,3,0.072,,3
+DE132,30.4191667,101.548056,longiflora,0,0.137,,4
+DE141,30.5770278,101.417972,longiflora,0,0.122,,4
+DE154,30.6431111,101.404139,longiflora,2,0.118,,2
+DE156,30.7118333,101.364333,longiflora,2,0.156,,2
+DE165,30.7118333,101.364333,longiflora,2,0.063,,2
+DE175,30.8267778,101.282278,longiflora,2,0.156,,2
+DE193,31.5747222,100.720944,longiflora,2,0.07,,2
+DE228,31.5431389,100.470639,longiflora,4,0.068,,1
+DE246,31.6518889,100.258417,longiflora,4,0.045,,1
+DE257,31.6261111,100.223306,longiflora,4,0.039,,1
+DE265,31.5866111,100.141667,longiflora,4,0.053,,1
+DE278,31.7153056,99.6162778,longiflora,4,0.114,,1
+DE282,31.9110278,99.2578611,longiflora,4,0.154,,1
+DE298,32.0668611,99.0042222,longiflora,4,0.071,,1
+DE308,32.0090278,99.0482778,longiflora,4,0.065,,1
+DE313,31.8871111,99.0337778,longiflora,4,0.08,,1
+DE356,30.9808333,98.9590556,longiflora,5,0.098,could be split into additional pop 5,5
+DE369,30.5976944,99.1883889,longiflora,1,0.253,,0
+DE383,30.2873611,99.4949722,longiflora,1,0.121,,0
+DE395,30.2970278,99.67044,longiflora,1,0.194,,0
+DE4,27.9591944,99.7071667,longiflora,1,0.077,,0
+DE402,30.2272778,100.247694,longiflora,1,0.06,,0
+DE424,29.1418056,100.156611,longiflora,1,0.066,,0
+DE436,28.7463889,100.269167,longiflora,1,0.086,,0
+DE464,27.80764,99.76297,longiflora,1,0.407,,0
+DE498,28.2902778,101.154944,longiflora,0,0.125,,4
+DE531,30.0128889,101.862722,longiflora,-1,0.55,,2
+DE54,29.1447222,100.034778,longiflora,0,0.113,,4
+DE61,29.3348611,100.099417,longiflora,0,0.121,,4
+DE634,32.3252778,101.080639,longiflora,3,0.048,,3
+DE644,32.3375,101.42083,longiflora,3,0.3,,3
+DE651,31.6575,100.701306,longiflora,2,0.069,,2
+DE669,32.3224167,102.455417,longiflora,3,0.252,,3
+DE685,32.7111111,102.117361,longiflora,3,0.053,,3
+DE693,32.9080556,101.890556,longiflora,3,0.161,,3
+DE696,33.31375,101.283611,longiflora,3,0.069,,3
+DE717,33.9394444,102.030194,longiflora,3,0.049,,3
+DE742,34.1130556,102.778889,longiflora,3,0.133,,3
+JJ108,29.3769444,96.8941667,longiflora,5,0.095,could be split into additional pop 5,5
+JJ112,29.3016528,96.8357028,longiflora,5,0.181,could be split into additional pop 5,5
+JJ116,29.9220278,97.6364722,longiflora,5,0.12,could be split into additional pop 5,5
+JJ27,28.50148611,98.91423333,longiflora,-1,0.55,REMOVE – low data (86%),-1
+JJ36,29.3949889,98.6553611,longiflora,5,0.129,could be split into additional pop 5,5
+JJ42,29.6908917,98.5388972,longiflora,5,0.082,could be split into additional pop 5,5
+JJ45,29.6466667,98.1336111,longiflora,1,0.11,,0
+JJ60,30.2968028,97.2673917,longiflora,5,0.051,could be split into additional pop 5,5
+JJ70,30.6064222,97.0669111,longiflora,5,0.11,could be split into additional pop 5,5
+JJ84,29.7763972,94.7426611,longiflora,5,0.08,could be split into additional pop 5,5
+JJ92,29.6111111,94.6516667,longiflora,5,0.045,could be split into additional pop 5,5
+JJ94,29.75888889,94.74194444,longiflora,5,0.354,could be split into additional pop 5,5
+JJ95,30.21353889,95.380775,longiflora,5,0.312,,1

@@ -1,85 +1,85 @@
-ID,latitude,longitude,label,group,missing-mincov75 ,notes
-26888,33.10194,97.30306,rhinanthoides,3,0.196,
-27839,31.7264,100.7353,rhinanthoides,-1,0.864,EXCLUDE – high missing data
-28127,29.14,100.157222,rhinanthoides,4,0.056,
-28229,28.7464,100.2692,rhinanthoides,-1,0.65,EXCLUDE – high missing data
-28264,28.7463889,100.269167,rhinanthoides,4,0.084,
-29535,30.6838889,97.2619444,rhinanthoides,3,0.196,
-29704,29.3769444,96.8941667,rhinanthoides,3,0.13,
-29976,29.7467,96.7092,rhinanthoides,-1,0.725,EXCLUDE – high missing data
-30703,29.1025,99.6708,rhinanthoides,4,0.361,INCLUDE – but high missing data. Changed from pop 0 to 4
-33216,29.2189,101.5164,siphonantha,5,0.057,INCLUDE – was mislabeled/misidentified in HUH
-33506,31.62,100.216667,rhinanthoides,1,0.106,
-33540,33.14,97.49806,rhinanthoides,1,0.049,
-33587,33.05278,98.00361,rhinanthoides,1,0.048,
-33902,32.38306,98.23889,rhinanthoides,1,0.125,
-34240,31.72,100.719444,rhinanthoides,0,0.056,
-35709,30.025,101.3875,rhinanthoides,5,0.082,
-36048,30.16833,100.5853,rhinanthoides,4,0.277,
-36067,30.3036111,99.5575,rhinanthoides,3,0.09,
-36343,31.6247222,100.222778,rhinanthoides,1,0.102,
-36681,31.85528,99.11306,rhinanthoides,1,0.109,
-38155,30.51028,101.6297,rhinanthoides,5,0.125,
-38510,30.87444,102.6314,rhinanthoides,5,0.053,changed from pop 4 to 5
-39031,32.48833,100.7647,rhinanthoides,0,0.051,
-39105,32.2564,101.1942,rhinanthoides,-1,0.468,EXCLUDE – high missing data
-39286,32.0825,101.0797,rhinanthoides,-1,0.923,EXCLUDE – high missing data
-40807,30.84972,95.43917,rhinanthoides,2,0.104,
-40833,30.8317,95.3525,longiflora,2,0.09,INCLUDE – was mislabeled as longiflora
-40871,30.815,95.15306,rhinanthoides,2,0.054,
-40895,30.8458333,95.3680556,rhinanthoides,2,0.103,
-41718,31.13,98.19583,rhinanthoides,3,0.075,
-44275,30.86,102.6814,rhinanthoides,5,0.375,INCLUDE – but high missing data. Changed from pop 4 to 5
-44379,31.69139,102.3211,rhinanthoides,5,0.075,
-44731,32.7533,97.2139,rhinanthoides,-1,0.829,EXCLUDE – high missing data
-DE112,30.0499722,101.37425,rhinanthoides,5,0.075,
-DE114,30.0500833,101.381167,rhinanthoides,5,0.078,
-DE12,28.57225,99.8236389,rhinanthoides,4,0.093,
-DE125,30.4191667,101.548056,rhinanthoides,5,0.096,
-DE140,30.5770278,101.417972,rhinanthoides,5,0.111,
-DE153,30.6431111,101.404139,rhinanthoides,-1,0.121,EXCLUDE – mislabeled – is lachnoglossa
-DE159,30.7118333,101.364333,rhinanthoides,5,0.074,
-DE205,31.6575,100.701306,rhinanthoides,0,0.131,
-DE207,31.7200278,100.714972,rhinanthoides,0,0.208,
-DE208,31.7879167,100.74775,rhinanthoides,0,0.133,
-DE219,31.8318611,100.739278,rhinanthoides,0,0.135,
-DE22,28.5858611,99.8372222,rhinanthoides,4,0.072,
-DE245,31.6518889,100.258417,rhinanthoides,1,0.19,
-DE259,31.6261111,100.223306,rhinanthoides,1,0.06,
-DE263,31.5866111,100.141667,rhinanthoides,1,0.106,
-DE272,31.7153056,99.6162778,rhinanthoides,1,0.121,
-DE290,32.0612778,99.0094444,rhinanthoides,1,0.068,
-DE299,32.0668611,99.0042222,rhinanthoides,1,0.102,
-DE348,31.0443056,98.9088056,rhinanthoides,3,0.064,
-DE360,30.9808333,98.9590556,rhinanthoides,3,0.065,
-DE393,30.2970278,99.671,rhinanthoides,3,0.059,
-DE405,30.2272778,100.247694,rhinanthoides,4,0.056,
-DE425,29.1418056,100.156611,rhinanthoides,4,0.193,
-DE434,28.7463889,100.269167,rhinanthoides,4,0.071,
-DE44,29.1238889,99.9966667,rhinanthoides,4,0.097,
-DE465,27.8076389,99.7629722,rhinanthoides,4,0.193,INCLUDE – but high missing. Changed from pop 3 to 4
-DE476,32.31,100.8369,delavayi,-1,0.353,"EXCLUDE – high missing, and may be mislabeled"
-DE494,28.2902778,101.154944,rhinanthoides,-1,0.407,EXCLUDE – high missing data
-DE5,27.9591944,99.7071667,rhinanthoides,4,0.124,
-DE50,29.1447222,100.034778,rhinanthoides,4,0.068,
-DE512,29.8813889,102.02,rhinanthoides,5,0.088,
-DE522,30.1446111,101.859306,rhinanthoides,5,0.105,
-DE526,30.1926389,101.8775,rhinanthoides,5,0.083,
-DE529,30.0128889,101.862722,rhinanthoides,5,0.125,
-DE535,30.0402778,101.837778,rhinanthoides,5,0.109,
-DE560,30.8267778,101.282278,rhinanthoides,5,0.119,
-DE581,31.725,100.744444,rhinanthoides,0,0.052,
-DE608,32.1386944,101.04,rhinanthoides,0,0.112,
-DE612,32.059677,101.142197,lachnoglossa,-1,0.091,EXCLUDE – seems like a rhinanthoides but was mislabeled as lachno.
-DE617,32.059677,101.142197,rhinanthoides,0,0.119,
-DE627,32.31,100.8369,rhinanthoides,-1,0.661,EXCLUDE – high missing data
-DE638,32.3252778,101.080639,rhinanthoides,0,0.127,
-DE639,32.3375,101.420833,rhinanthoides,0,0.051,
-DE661,32.0905556,102.563333,rhinanthoides,0,0.141,
-DE667,32.3224167,102.455417,rhinanthoides,0,0.077,
-DE682,32.7111111,102.117361,rhinanthoides,0,0.065,
-DE703,33.31375,101.283611,rhinanthoides,0,0.127,
-DE71,30.0109722,100.316167,rhinanthoides,4,0.066,
-JJ106,29.3769444,96.8941667,rhinanthoides,3,0.337,INCLUDE – but high missing data ()
-JJ24,27.88160278,99.66681667,rhinanthoides,-1,0.341,EXCLUDE – mislabeled – is cephalantha
-JJ71,30.6064222,97.0669111,rhinanthoides,3,0.24,
+ID,latitude,longitude,label,group,old_group,missing-mincov75 ,notes
+26888,33.10194,97.30306,rhinanthoides,3,3,0.196,
+27839,31.7264,100.7353,rhinanthoides,-1,-1,0.864,EXCLUDE – high missing data
+28127,29.14,100.157222,rhinanthoides,4,4,0.056,
+28229,28.7464,100.2692,rhinanthoides,-1,-1,0.65,EXCLUDE – high missing data
+28264,28.7463889,100.269167,rhinanthoides,4,4,0.084,
+29535,30.6838889,97.2619444,rhinanthoides,3,3,0.196,
+29704,29.3769444,96.8941667,rhinanthoides,3,3,0.13,
+29976,29.7467,96.7092,rhinanthoides,-1,-1,0.725,EXCLUDE – high missing data
+30703,29.1025,99.6708,rhinanthoides,4,4,0.361,INCLUDE – but high missing data. Changed from pop 0 to 4
+33216,29.2189,101.5164,siphonantha,5,5,0.057,INCLUDE – was mislabeled/misidentified in HUH
+33506,31.62,100.216667,rhinanthoides,1,1,0.106,
+33540,33.14,97.49806,rhinanthoides,1,1,0.049,
+33587,33.05278,98.00361,rhinanthoides,1,1,0.048,
+33902,32.38306,98.23889,rhinanthoides,1,1,0.125,
+34240,31.72,100.719444,rhinanthoides,0,0,0.056,
+35709,30.025,101.3875,rhinanthoides,5,5,0.082,
+36048,30.16833,100.5853,rhinanthoides,4,4,0.277,
+36067,30.3036111,99.5575,rhinanthoides,3,3,0.09,
+36343,31.6247222,100.222778,rhinanthoides,1,1,0.102,
+36681,31.85528,99.11306,rhinanthoides,1,1,0.109,
+38155,30.51028,101.6297,rhinanthoides,5,5,0.125,
+38510,30.87444,102.6314,rhinanthoides,5,5,0.053,changed from pop 4 to 5
+39031,32.48833,100.7647,rhinanthoides,0,0,0.051,
+39105,32.2564,101.1942,rhinanthoides,-1,-1,0.468,EXCLUDE – high missing data
+39286,32.0825,101.0797,rhinanthoides,-1,-1,0.923,EXCLUDE – high missing data
+40807,30.84972,95.43917,rhinanthoides,3,2,0.104,
+40833,30.8317,95.3525,longiflora,3,2,0.09,INCLUDE – was mislabeled as longiflora should be 40834
+40871,30.815,95.15306,rhinanthoides,3,2,0.054,
+40895,30.8458333,95.3680556,rhinanthoides,3,2,0.103,
+41718,31.13,98.19583,rhinanthoides,3,3,0.075,
+44275,30.86,102.6814,rhinanthoides,5,5,0.375,INCLUDE – but high missing data. Changed from pop 4 to 5
+44379,31.69139,102.3211,rhinanthoides,5,5,0.075,
+44731,32.7533,97.2139,rhinanthoides,-1,-1,0.829,EXCLUDE – high missing data
+DE112,30.0499722,101.37425,rhinanthoides,5,5,0.075,
+DE114,30.0500833,101.381167,rhinanthoides,5,5,0.078,
+DE12,28.57225,99.8236389,rhinanthoides,4,4,0.093,
+DE125,30.4191667,101.548056,rhinanthoides,5,5,0.096,
+DE140,30.5770278,101.417972,rhinanthoides,5,5,0.111,
+DE153,30.6431111,101.404139,rhinanthoides,-1,-1,0.121,EXCLUDE – mislabeled – is lachnoglossa
+DE159,30.7118333,101.364333,rhinanthoides,5,5,0.074,
+DE205,31.6575,100.701306,rhinanthoides,0,0,0.131,
+DE207,31.7200278,100.714972,rhinanthoides,0,0,0.208,
+DE208,31.7879167,100.74775,rhinanthoides,0,0,0.133,
+DE219,31.8318611,100.739278,rhinanthoides,0,0,0.135,
+DE22,28.5858611,99.8372222,rhinanthoides,4,4,0.072,
+DE245,31.6518889,100.258417,rhinanthoides,1,1,0.19,
+DE259,31.6261111,100.223306,rhinanthoides,1,1,0.06,
+DE263,31.5866111,100.141667,rhinanthoides,1,1,0.106,
+DE272,31.7153056,99.6162778,rhinanthoides,1,1,0.121,
+DE290,32.0612778,99.0094444,rhinanthoides,1,1,0.068,
+DE299,32.0668611,99.0042222,rhinanthoides,1,1,0.102,
+DE348,31.0443056,98.9088056,rhinanthoides,3,3,0.064,
+DE360,30.9808333,98.9590556,rhinanthoides,3,3,0.065,
+DE393,30.2970278,99.671,rhinanthoides,3,3,0.059,
+DE405,30.2272778,100.247694,rhinanthoides,4,4,0.056,
+DE425,29.1418056,100.156611,rhinanthoides,4,4,0.193,
+DE434,28.7463889,100.269167,rhinanthoides,4,4,0.071,
+DE44,29.1238889,99.9966667,rhinanthoides,4,4,0.097,
+DE465,27.8076389,99.7629722,rhinanthoides,4,4,0.193,INCLUDE – but high missing. Changed from pop 3 to 4
+DE476,32.31,100.8369,delavayi,-1,-1,0.353,"EXCLUDE – high missing, and may be mislabeled"
+DE494,28.2902778,101.154944,rhinanthoides,-1,-1,0.407,EXCLUDE – high missing data
+DE5,27.9591944,99.7071667,rhinanthoides,4,4,0.124,
+DE50,29.1447222,100.034778,rhinanthoides,4,4,0.068,
+DE512,29.8813889,102.02,rhinanthoides,5,5,0.088,
+DE522,30.1446111,101.859306,rhinanthoides,5,5,0.105,
+DE526,30.1926389,101.8775,rhinanthoides,5,5,0.083,
+DE529,30.0128889,101.862722,rhinanthoides,5,5,0.125,
+DE535,30.0402778,101.837778,rhinanthoides,5,5,0.109,
+DE560,30.8267778,101.282278,rhinanthoides,5,5,0.119,
+DE581,31.725,100.744444,rhinanthoides,0,0,0.052,
+DE608,32.1386944,101.04,rhinanthoides,0,0,0.112,
+DE612,32.059677,101.142197,lachnoglossa,-1,-1,0.091,EXCLUDE – seems like a rhinanthoides but was mislabeled as lachno.
+DE617,32.059677,101.142197,rhinanthoides,0,0,0.119,
+DE627,32.31,100.8369,rhinanthoides,-1,-1,0.661,EXCLUDE – high missing data
+DE638,32.3252778,101.080639,rhinanthoides,0,0,0.127,
+DE639,32.3375,101.420833,rhinanthoides,0,0,0.051,
+DE661,32.0905556,102.563333,rhinanthoides,0,0,0.141,
+DE667,32.3224167,102.455417,rhinanthoides,0,0,0.077,
+DE682,32.7111111,102.117361,rhinanthoides,0,0,0.065,
+DE703,33.31375,101.283611,rhinanthoides,0,0,0.127,
+DE71,30.0109722,100.316167,rhinanthoides,4,4,0.066,
+JJ106,29.3769444,96.8941667,rhinanthoides,3,3,0.337,INCLUDE – but high missing data ()
+JJ24,27.88160278,99.66681667,rhinanthoides,-1,-1,0.341,EXCLUDE – mislabeled – is cephalantha
+JJ71,30.6064222,97.0669111,rhinanthoides,3,3,0.24,

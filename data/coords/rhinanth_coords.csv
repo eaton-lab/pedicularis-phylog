@@ -7,7 +7,7 @@ ID,latitude,longitude,label,group,old_group,missing-mincov75 ,notes
 29535,30.6838889,97.2619444,rhinanthoides,3,3,0.196,
 29704,29.3769444,96.8941667,rhinanthoides,3,3,0.13,
 29976,29.7467,96.7092,rhinanthoides,-1,-1,0.725,EXCLUDE – high missing data
-30703,29.1025,99.6708,rhinanthoides,4,4,0.361,INCLUDE – but high missing data. Changed from pop 0 to 4
+30703,29.1025,99.6708,rhinanthoides,-1,4,0.361,EXCLUDE – high missing data and odd ancestry grouping with Gansu despite occurring in Yunnan
 33216,29.2189,101.5164,siphonantha,5,5,0.057,INCLUDE – was mislabeled/misidentified in HUH
 33506,31.62,100.216667,rhinanthoides,1,1,0.106,
 33540,33.14,97.49806,rhinanthoides,1,1,0.049,

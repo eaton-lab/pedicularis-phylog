@@ -1,6 +1,6 @@
 ID,latitude,longitude,label,group,mincov75-missing,notes,old_group
 28270,28.7463889,100.269167,longiflora,1,0.131,,0
-29506,29.6466667,98.1336111,longiflora,1,0.068,"maybe admixed with pops 3,4,5",0
+29506,29.6466667,98.1336111,longiflora,1,0.068,"maybe admixed with pops 3,4,5. Same site as JJ45",0
 31601,31.6447222,98.4516667,longiflora,4,0.075,,1
 33585,33.05278,98.00361,longiflora,4,0.155,,1
 33903,32.3830556,98.2388889,longiflora,4,0.125,,1

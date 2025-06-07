@@ -1,3 +1,17 @@
+## pedicularis-phylog specific ignores
+
+# Environmental rasters
+env_data/
+
+# Sample data files not checked in to the repo
+sample_data/Meek_all_fieldnotes.csv
+sample_data/eaton_lab_fieldnotes.csv
+
+# Intermediate data files created by GDM notebooks
+notebooks/*.csv
+notebooks/*.geojson
+
+## Stock python ignores
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

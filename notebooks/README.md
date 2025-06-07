@@ -6,7 +6,7 @@ for running GDM.
 * **R-GDM-V2.ipynb** (Requires R kernel) - R notebook which is only responsible
 for running GDM. Reads in all the data prepped by the PyGDM notebook.
 
-## `_arch` directory contains deprecated notebooks
+#### `_arch` directory contains deprecated notebooks
 These may be useful in the future, but are archived for the moment,
 superseded by other notebooks.
 * PyGDM-rpy2-Dev.ipynb - An attempt to run the GDM R package inside a

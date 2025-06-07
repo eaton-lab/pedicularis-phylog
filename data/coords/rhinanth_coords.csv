@@ -15,7 +15,7 @@ ID,latitude,longitude,label,group,old_group,missing-mincov75 ,notes
 33902,32.38306,98.23889,rhinanthoides,1,1,0.125,
 34240,31.72,100.719444,rhinanthoides,0,0,0.056,
 35709,30.025,101.3875,rhinanthoides,2,5,0.082,
-36048,30.16833,100.5853,rhinanthoides,4,4,0.277,
+36048,30.16833,100.5853,rhinanthoides,4,4,0.277,"HUH image is wrong, shows tenuituba, but sample groups in rhinanth."
 36067,30.3036111,99.5575,rhinanthoides,3,3,0.09,
 36343,31.6247222,100.222778,rhinanthoides,1,1,0.102,
 36681,31.85528,99.11306,rhinanthoides,1,1,0.109,

@@ -34,7 +34,7 @@ ID,latitude,longitude,label,elevation,group,alt-group,taxon,hybrid_site,missing,
 36889,31.1139,99.3647,kansuensis,,-1,,kansu,,,-1,INSPECT – low data; groups below the reference,pink
 37229,31.0497,99.565,kansuensis,,-1,,kansu,,,-1,"EXCLUDE – possible tube mislabel, groups near integrifolia",pink
 38190,30.47028,101.6589,kansuensis,,5,,kansu,,0.133,5,,
-39026,32.48833,100.7647,kansuensis,,3,,kansu,,0.106,3,INSPECT – changed from group 2 to group 3,
+39026,32.48833,100.7647,kansuensis,,3,2,kansu,,0.106,3,INSPECT – could be assigned to pops 2 or 3,
 39347,33.3025,101.527222,kansuensis,,3,,kansu,,0.067,3,,
 39530,32.8964,101.9161,kansuensis,,3,,kansu,,0.183,3,INCLUDE – tree confirmed,pink
 40423,34.1480556,102.572778,kansuensis,,3,,kansu,,0.071,3,,
@@ -65,8 +65,8 @@ DE14,28.57225,99.8236389,kansuensis,,-1,,kansu,,,-1,EXCLUDE – very strange tre
 DE142,30.577,101.418,verticillata,3450,5,,kansu,,0.103,5,"INCLUDE – mislabeled, groups within kansu, photo confirmed",white
 DE148,30.6431,101.4041,verticillata,3587,5,,kansu,,0.12,5,"INCLUDE – mislabeled, groups within kansu, photo confirmed",white
 DE162,30.7118333,101.364333,kansuensis,3761,5,,kansu,1,0.06,5,,yellow
-DE163,30.7118333,101.364333,kansuensis,3761,2,4,kansu,1,0.239,2,,pink
-DE180,30.8469,101.2743,verticillata,3476,5,-1,kansu,,0.728,5,"INCLUDE – mislabeled, groups within kansu",
+DE163,30.7118333,101.364333,kansuensis,3761,2,4,kansu,1,0.239,2,"assign to group 2 or 4, ",pink
+DE180,30.8469,101.2743,verticillata,3476,5,-1,kansu,,0.728,5,"mislabeled, probably kansu based on tree, but high missing data.",
 DE184,30.8267778,101.282278,kansuensis,3550,5,,kansu,,0.063,5,,
 DE191,31.3928056,100.682611,kansuensis,3180,2,4,kansu,,0.081,2,,
 DE194,31.5747222,100.720944,kansuensis,3336,2,,kansu,,0.112,2,,
@@ -122,7 +122,7 @@ DE517,30.0508333,101.962639,kansuensis,2549,5,,kansu,,0.108,5,,
 DE521,30.1446111,101.859306,kansuensis,,-1,,kansu,,,-1,EXCLUDE – is verticillata,
 DE525,30.1926389,101.8775,kansuensis,,-1,,kansu,,,-1,EXCLUDE – is likely szetschuanica,
 DE527,30.0128889,101.862722,kansuensis,3525,4,,kansu,1,0.053,4,,pink with purple veins
-DE528,30.0128889,101.862722,kansuensis,3525,5,,kansu,1,0.419,5,"ugh, this an important sample! White with purple veins",white
+DE528,30.0128889,101.862722,kansuensis,3525,5,,kansu,1,0.419,5,This an important sample! White with purple veins. Assign to pop 5 for PCA.,white
 DE538,30.0402778,101.837778,kansuensis,3776,3,,kansu,,0.086,3,morphologically large with bigger leaves than typical kansu,purple
 DE557,30.7406389,101.334361,kansuensis,3845,5,,kansu,,0.076,5,,
 DE584,31.7247222,100.742667,kansuensis,4049,2,,kansu,,0.06,2,,

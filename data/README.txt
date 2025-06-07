@@ -6,7 +6,7 @@ an endemic lineage of Pedicularis (Orobanchaceae) in the role of floral
 specializations and rapid range expansions](https://doi.org/10.1111/cla.12596)
 
 ### Eaton Lab data
-These data sheets are not checked in to the repository. They can be fetched
+This data sheet is not checked in to the repository. It can be fetched
 from google drive or Eaton Lab servers.
 
 * eaton_lab_fieldnotes.csv - Up to date data sheet for Eaton Lab samples from the

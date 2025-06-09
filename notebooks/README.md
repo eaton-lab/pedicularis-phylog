@@ -6,6 +6,10 @@ for running GDM.
 * **R-GDM-V2.ipynb** (Requires R kernel) - R notebook which is only responsible
 for running GDM. Reads in all the data prepped by the PyGDM notebook.
 
+### Auxiliary notebooks
+* **BHM-ScrapeRecords.ipynb** - Fetch occurrence data from Biodiversity of the Hengduan
+Mountains website. Only needs to be run once.
+
 #### `_arch` directory contains deprecated notebooks
 These may be useful in the future, but are archived for the moment,
 superseded by other notebooks.

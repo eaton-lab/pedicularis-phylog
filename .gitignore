@@ -4,7 +4,7 @@
 env_data/
 
 # Sample data files not checked in to the repo
-data/eaton_lab_fieldnotes.csv
+data/fieldnotes/eaton_lab_fieldnotes.csv
 
 # Intermediate data files created by GDM notebooks
 notebooks/*.csv

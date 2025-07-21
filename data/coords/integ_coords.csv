@@ -1,0 +1,40 @@
+ID,latitude,longitude,label,group,notes
+28273,28.7463889,100.269167,integrifolia,1,
+28603,29.1122222,100.032778,integrifolia,1,
+28910,29.0727778,99.6755556,integrifolia,1,x
+30700,29.1025,99.6708333,integrifolia,1,x
+31240,31.3328,98.1286,integrifolia,2,added
+33896,32.39889,98.19778,integrifolia,3,
+34494,32.2506,100.0622,integrifolia,3,added; maybe pop 2
+40537,29.71361,98.62722,integrifolia,4,INSPECT – high missing data
+40842,30.7736,95.5192,integrifolia,3,added
+41255,30.61194,97.60694,integrifolia,2,
+41394,31.28611,97.52528,integrifolia,2,
+41425,31.2013889,98.0836111,integrifolia,2,
+41464,31.1466667,98.1736111,integrifolia,2,INSPECT – high missing data
+41603,30.9069,98.1936,integrifolia,-1,"EXCLUDE – highly divergenct from nearby sample 41710, prob mislabeled"
+41710,31.13,98.19583,integrifolia,2,
+41747,31.57472,98.05528,integrifolia,2,
+DE130,30.4191667,101.548056,integrifolia,0,
+DE143,30.5770278,101.417972,integrifolia,0,
+DE152,30.6431111,101.404139,integrifolia,0,
+DE155,30.7118333,101.364333,integrifolia,0,
+DE305,32.0090278,99.0482778,integrifolia,2,
+DE334,31.46325,98.8201389,integrifolia,4,
+DE396,30.2970278,99.671,integrifolia,0,
+DE410,30.22325,100.264278,integrifolia,0,
+DE416,29.8208333,100.345889,integrifolia,0,
+DE422,29.1418056,100.156611,integrifolia,1,
+DE433,28.7463889,100.269167,integrifolia,1,
+DE46,29.1085,100.034361,integrifolia,1,
+DE463,27.8076389,99.7629722,integrifolia,1,
+DE473,27.8118,99.7663,integrifolia,-1,"EXCLUDE – highly divergenct from nearby sample DE463, prob mislabeled"
+DE490,28.3222222,101.166389,integrifolia,1,
+DE537,30.0402778,101.837778,integrifolia,0,
+DE558,30.7406389,101.334361,integrifolia,0,
+DE64,29.3348611,100.099417,integrifolia,1,
+DE68,29.3858333,100.149444,integrifolia,1,
+DE692,32.9080556,101.890556,integrifolia,2,
+DE72,30.0109722,100.316167,integrifolia,0,
+DE84,30.15875,100.566083,integrifolia,0,
+JJ32,29.2633333,98.68,integrifolia,4,added
